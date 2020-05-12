@@ -1,5 +1,5 @@
 #the first file
 def fun1():
-	print("我在这里修改123")
+	print("修改第一个函数")
 def fun2():
 	print("修改第二个函数222")
